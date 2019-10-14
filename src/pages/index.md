@@ -7,19 +7,16 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: >-
-      # Заголовок 1
+    content: |-
+      # Header 1
+      Lorem ipsum
+      ## Header 2
 
-      Какой-то текст тут, еще немного текста, и еще...
+      text text text
 
-      ## Заголовок 2
+      ### Header 3
 
-      Какой-то текст тут ниже, еще немного букв
-
-      ### Заголовок 3
-
-      Опять текст под заголовком. Написано в разметке Markdown, а почему бы и
-      нет?
+      text text text text text text 
     img_path: /images/pic01.jpg
     title: Название раздела
     type: intro
