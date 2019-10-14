@@ -7,12 +7,21 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: >-
+      # Заголовок 1
+
+      Какой-то текст тут, еще немного текста, и еще...
+
+      ## Заголовок 2
+
+      Какой-то текст тут ниже, еще немного букв
+
+      ### Заголовок 3
+
+      Опять текст под заголовком. Написано в разметке Markdown, а почему бы и
+      нет?
     img_path: /images/pic01.jpg
-    title: Reflex
+    title: Название раздела
     type: intro
   - actions:
       - is_primary: false
