@@ -11,7 +11,7 @@ sections:
       Lorem ipsum dolor sit magna consectetur  
       adipiscing elit. Duis dapibus rutrum facilisis.  
       Class aptent taciti sociosqu torquent.
-    img_path: /images/c14049980.jpg
+    img_path: /images/pic01.jpg
     title: Reflex
     type: intro
   - actions:
